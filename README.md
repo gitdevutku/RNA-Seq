@@ -45,7 +45,8 @@ deseq.csv: CSV file containing the results of the DESeq2 analysis.
 - Volcano Plot: A volcano plot showing differentially expressed genes.
 ## Screenshots 
 - ![Screenshot 2024-01-29 105833](https://github.com/gitdevutku/RNA-Seq/assets/144778146/7c86e450-eef1-44e3-b90b-65b10fa83b92)
--![Screenshot 2024-01-29 105810](https://github.com/gitdevutku/RNA-Seq/assets/144778146/dfb51d85-1522-41ae-9598-b6ad1e371255)  
+-![Screenshot 2024-01-29 105810](https://github.com/gitdevutku/RNA-Seq/assets/144778146/dfb51d85-1522-41ae-9598-b6ad1e371255)
+-![image](https://github.com/gitdevutku/RNA-Seq/assets/144778146/a843a048-0dc6-4051-a576-7f2fc0383169)
 ## Contributors
 - [Utku Berki Baysal](https://github.com/gitdevutku)
 - [Ömür Baysal](https://www.researchgate.net/profile/Oemuer-Baysal)
