@@ -24,7 +24,8 @@ pip install pandas scanpy numpy pydeseq2 sanbomics seaborn matplotlib
 ## Usage
 - Clone this repository:
 ```bash
-  git clone https://github.com/RNA-Seq/RNA-Seq.gitcd RNA-Seq
+  git clone https://github.com/RNA-Seq/RNA-Seq.git
+  cd RNA-Seq
 ```
 - Install the dependencies:
 ```bash
