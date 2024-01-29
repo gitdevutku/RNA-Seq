@@ -44,6 +44,5 @@ deseq.csv: CSV file containing the results of the DESeq2 analysis.
 - Volcano Plot: A volcano plot showing differentially expressed genes.
 ## Contributing
 - Contributions are welcome! If you find any issues or have suggestions, please open an issue or create a pull request.
-  
 
 
