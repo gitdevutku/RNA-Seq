@@ -43,7 +43,12 @@ deseq.csv: CSV file containing the results of the DESeq2 analysis.
 - Clustermap: A heatmap of gene expression data, generated using seaborn.
 - PCA Plot: A principal component analysis (PCA) plot, visualizing sample relationships.
 - Volcano Plot: A volcano plot showing differentially expressed genes.
-## Contributing
+## Screenshots 
+- ![Screenshot 2024-01-29 105833](https://github.com/gitdevutku/RNA-Seq/assets/144778146/7c86e450-eef1-44e3-b90b-65b10fa83b92)
+-![Screenshot 2024-01-29 105810](https://github.com/gitdevutku/RNA-Seq/assets/144778146/dfb51d85-1522-41ae-9598-b6ad1e371255)  
+## Contributors
+- [Utku Berki Baysal](https://github.com/gitdevutku)
+- [Ömür Baysal](https://www.researchgate.net/profile/Oemuer-Baysal)
 - Contributions are welcome! If you find any issues or have suggestions, please open an issue or create a pull request.
-
-
+## License
+This project is open-source and is provided under the MIT License. Feel free to contribute and use the code for educational or personal purposes.
